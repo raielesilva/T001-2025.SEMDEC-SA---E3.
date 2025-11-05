@@ -21,6 +21,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 |Luís Eduardo S S Pontes | l.ponts01@gmail.com|
 |Wendel Brito Uzeda | Wendelzbrito@gmail.com|
 | Drielle Costa Macedo Fagundes| Driellefagundes86@gmail.com|
+| Jailson do Nascimento Conceição Junior| juniorjailson57@gmail.com| 
+
+
 
 ## Orientador
 
