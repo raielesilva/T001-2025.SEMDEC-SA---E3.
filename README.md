@@ -8,14 +8,19 @@
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
-## Integrantes
+## Equipe 3.
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+ | INTEGRANTES  | EMAILS| 
+ |--------------|--------|
+ |Raiele Silva Santos| santosraiele21@gmail.com|
+ |Antonio Vitorio Almeida Silva | antoniovitorio.7@outlook.com|
+ |Raí Robert Magalhães De Araujo |rairobertaraujo12@gmail.com|
+ |Viviane de Jesus Conceição Campos| vivianecamposassistentesocial@yahoo.com.br
+ |Júlia Lissandra Dos Santos Oliveira |lissandrajulia84@gmail.com|
+|Ana Tabita Araújo Ferreira De Souza | anatabitasouza@gmail.com|
+|Luís Eduardo S S Pontes | l.ponts01@gmail.com|
+|Wendel Brito Uzeda | Wendelzbrito@gmail.com|
+| Drielle Costa Macedo Fagundes| Driellefagundes86@gmail.com|
 
 ## Orientador
 
