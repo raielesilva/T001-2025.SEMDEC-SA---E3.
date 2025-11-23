@@ -10,24 +10,24 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Equipe 3.
 
- | INTEGRANTES  | EMAILS| 
+ | INTEGRANTES  | CONTATOS| 
  |--------------|--------|
- |Raiele Silva Santos| santosraiele21@gmail.com|
- |Antonio Vitorio Almeida Silva | antoniovitorio.7@outlook.com|
- |Raí Robert Magalhães De Araujo |rairobertaraujo12@gmail.com|
- |Viviane de Jesus Conceição Campos| vivianecamposassistentesocial@yahoo.com.br
- |Júlia Lissandra Dos Santos Oliveira |lissandrajulia84@gmail.com|
-|Ana Tabita Araújo Ferreira De Souza | anatabitasouza@gmail.com|
-|Luís Eduardo S S Pontes | l.ponts01@gmail.com|
-|Wendel Brito Uzeda | Wendelzbrito@gmail.com|
-| Drielle Costa Macedo Fagundes| Driellefagundes86@gmail.com|
-| Jailson do Nascimento Conceição Junior| juniorjailson57@gmail.com| 
+ |Raiele Silva Santos| [LinkedIn](https://www.linkedin.com/in/raiele-santos-533931387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) / [GitHub](https://github.com/raielesilva)|
+ |Antonio Vitorio Almeida Silva | [LinkedIn](https://www.linkedin.com/in/antonio-vitorio/) / [GitHub](https://github.com/antoniov7)|
+ |Raí Robert Magalhães De Araujo |[LinkedIn](https://www.linkedin.com/in/rai-araujo-350762387/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) / [GitHub](https://github.com/rairobertaraujo)|
+ |Viviane de Jesus Conceição Campos| [LinkedIn](https://www.linkedin.com/in/viviane-campos-13a3a840/) / [GitHub](https://github.com/vivianejcampos)
+ |Júlia Lissandra Dos Santos Oliveira |[LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-lissandra-b7333b39a/?utm_source=share_via&utm_content=profile&utm_medium=member_ios) / [GitHub](https://github.com/lissjulia)|
+ |Ana Tabita Araújo Ferreira De Souza | [LinkedIn](https://www.linkedin.com/in/ana-t%C3%A1bita-souza-94157b389/) / [GitHub](https://github.com/anatabitasouza-creator)|
+ |Luís Eduardo S S Pontes | [LinkedIn]() / [GitHub]()|
+ |Wendel Brito Uzeda | [LinkedIn](https://www.linkedin.com/in/wendel-brito-a959a2237/?utm_source=share_via&utm_content=profile&utm_medium=member_android) / [GitHub](https://github.com/wendelzbrito-del)|
+ | Drielle Costa Macedo Fagundes| [LinkedIn](https://www.linkedin.com/in/drielle-fagundes-656773387/) / [GitHub](Driellefagundes86-Design)|
+ | Jailson do Nascimento Conceição Junior| [LinkedIn](https://www.linkedin.com/in/jailson-junior-454608219/?utm_source=share_via&utm_content=profile&utm_medium=member_android) / [GitHub](https://github.com/JailsonJr07)| 
 
 
 
 ## Orientador
 
-* Nome completo do professor
+* Willian Sant'Anna
 
 # Documentação
 
