@@ -1,4 +1,4 @@
-# Título do Projeto
+# Conecta Subúrbio.
 
 `DISCIPLINA`
 
@@ -6,7 +6,9 @@
 
 `ANO`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+*O Conecta Subúrbio* é uma plataforma web voltada para o Subúrbio de Salvador que reúne, em um só lugar, oportunidades comunitárias e ações de voluntariado. O sistema permite que instituições locais publiquem cursos, oficinas, eventos e projetos sociais, facilitando o acesso dos moradores a essas atividades. 
+
+Além disso, qualquer pessoa pode entrar na plataforma para oferecer ajuda, como aulas de reforço escolar, doações, serviços voluntários ou atividades comunitárias, tornando-se parte ativa de uma rede de colaboração. O objetivo do Conecta Subúrbio é ampliar o acesso à informação, incentivar o voluntariado e aproximar a comunidade das oportunidades que existem no território.
 
 ## Equipe 3.
 
