@@ -1,10 +1,10 @@
 # Conecta Subúrbio.
 
-`DISCIPLINA`
+`BANCO DE DADOS`
 
-`NOME DO PROGRAMA`
+`C-SHARP, DOTNET, DBEAVER-CE`
 
-`ANO`
+`2025`
 
 *O Conecta Subúrbio* é uma plataforma web voltada para o Subúrbio de Salvador que reúne, em um só lugar, oportunidades comunitárias e ações de voluntariado. O sistema permite que instituições locais publiquem cursos, oficinas, eventos e projetos sociais, facilitando o acesso dos moradores a essas atividades. 
 
